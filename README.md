@@ -1,2 +1,1 @@
-# cc-mini-project
-mini project
+# spring-boot-crud-example
